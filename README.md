@@ -1,9 +1,13 @@
-# Sparlo 下载
+# Sparlo — macOS 抖音火花助手
 
-这里仅提供 Sparlo Mac 安装包、更新说明和问题反馈。
+Sparlo 是在 Mac 上识别抖音火花好友、按设置发送消息并记录结果的独立工具。支持先检查、不发送。
 
-- [官网](https://sparlo-spark-site.allen-liu312.chatgpt.site/)
-- [安装与使用](https://sparlo-spark-site.allen-liu312.chatgpt.site/install.html)
+**Official website / 官网：[sparlo.net](https://sparlo.net/)**
+
+此公开仓库提供 Mac 安装包、更新说明和问题反馈。
+
+- [官网](https://sparlo.net/)
+- [安装与使用](https://sparlo.net/install.html)
 - [全部安装包](https://github.com/allen826liu/sparlo-downloads/releases)
 
 下载 Releases 下的 `.dmg` 文件。GitHub 自动生成的 Source code 压缩包不是安装包。
